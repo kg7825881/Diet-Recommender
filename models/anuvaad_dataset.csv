@@ -1,0 +1,377 @@
+food_code,food_name,primarysource,energy_kj,energy_kcal,carb_g,protein_g,fat_g,freesugar_g
+ASC001,Hot tea (Garam Chai),asc_manual,68.16,16.14,2.58,0.39,0.53,2.58
+ASC002,Instant coffee,asc_manual,97.77,23.16,3.65,0.64,0.75,3.62
+ASC003,Espreso coffee,asc_manual,217.00,51.54,6.62,1.75,2.14,6.53
+ASC004,Iced tea,asc_manual,44.09,10.34,2.70,0.03,0.01,2.70
+ASC005,Raw mango drink (Aam panna),asc_manual,152.39,35.92,9.05,0.16,0.03,7.49
+ASC006,Fruit Punch (with fresh juices),asc_manual,153.89,36.12,9.38,0.14,0.03,9.25
+ASC007,Fruit Punch (with squashes),asc_manual,98.22,23.13,5.99,0.07,0.02,5.88
+ASC008,Lemonade,asc_manual,88.66,20.80,5.48,0.03,0.01,5.47
+ASC009,Lem-o-gin,asc_manual,91.63,21.52,5.55,0.08,0.03,5.38
+ASC010,Cumin infused water (Jeere/Zeere ka pani),asc_manual,38.23,9.09,1.86,0.17,0.11,1.46
+ASC011,Coco pine cooler,asc_manual,138.47,32.75,5.72,0.56,1.00,5.52
+ASC012,Summer cooler,asc_manual,95.22,22.43,5.43,0.37,0.04,5.21
+ASC014,Hot cocoa,asc_manual,378.24,90.10,9.23,3.36,4.56,9.01
+ASC015,Cold coffee with ice cream,asc_manual,286.61,67.85,11.24,1.57,2.11,11.18
+ASC016,Banana milkshake (Kele milkshake),asc_manual,274.33,65.31,9.15,1.84,2.37,7.96
+ASC017,Mango milkshake (Aam milkshake),asc_manual,239.13,56.90,7.23,1.73,2.35,7.15
+ASC018,Pineapple milkshake (Ananas milkshake),asc_manual,235.06,55.72,7.62,1.66,2.23,7.60
+ASC019,Orange milkshake (Narangi milkshake),asc_manual,241.50,57.42,7.11,1.86,2.52,7.08
+ASC020,Egg nog,asc_manual,407.68,97.14,8.15,4.78,5.11,8.06
+ASC021,Sweet Lassi (Meethi lassi),asc_manual,151.19,35.66,6.51,1.29,0.68,6.51
+ASC022,Lassi (salted),asc_manual,79.43,18.84,1.86,1.35,0.72,1.84
+ASC023,Cheese and chilli sandwich ,asc_manual,916.65,218.11,27.40,6.80,9.78,2.38
+ASC024,Egg sandwich (Ande ka sandwich),asc_manual,1198.25,285.96,29.16,8.69,15.80,1.86
+ASC025,Cucumber sandwich (Kheere ka sandwich),asc_manual,792.81,188.60,25.77,4.80,8.00,1.64
+ASC026,Cheese and pineapple sandwich (Cheese aur ananas ka sandwich),asc_manual,1080.78,257.71,29.10,8.20,12.80,4.10
+ASC027,Cheese and tomato sandwich (Cheese aur tamatar ke sandwich),asc_manual,1020.45,243.32,26.92,7.92,12.27,2.85
+ASC028,Chicken sandwich,asc_manual,1063.58,253.27,25.38,13.12,11.75,1.60
+ASC029,Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich),asc_manual,1223.06,291.43,28.54,9.53,16.14,2.82
+ASC030,Rainbow sandwich,asc_manual,1145.57,272.75,34.26,7.75,12.54,4.05
+ASC031,Club sandwich ,asc_manual,982.35,235.32,18.51,7.31,15.12,2.01
+ASC032,Vegetarian club sandwich,asc_manual,829.67,198.33,19.68,5.45,11.33,2.08
+ASC033,Pin wheel sandwich,asc_manual,1295.40,311.52,14.00,8.77,24.93,1.45
+ASC034,Carrot apple sandwich (Gajar aur seb ka sandwich),asc_manual,899.82,214.11,29.04,5.30,9.12,5.30
+ASC035,Salami sandwich,asc_manual,1068.35,255.59,21.54,8.70,15.51,2.00
+ASC036,Vegetable and mayonnaise sandwich,asc_manual,1020.23,244.26,23.20,4.47,15.40,2.35
+ASC037,Egg and tomato sandwich (Ande aur tamatar ka sandwich),asc_manual,933.23,222.11,25.90,7.66,10.51,2.09
+ASC038,Sweet open sandwich,asc_manual,1026.93,244.25,39.24,4.99,8.15,12.23
+ASC039,Mushroom and cheese sandwich (toasted),asc_manual,951.30,227.42,21.01,7.79,13.01,2.11
+ASC040,Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted)),asc_manual,939.42,224.58,21.42,6.82,12.95,2.67
+ASC041,Pea potato sandwich (toasted) (Matar aloo ka sandwich),asc_manual,692.60,164.90,25.17,4.60,5.43,1.33
+ASC042,Paneer pea sandwich (toasted) (Paneer matar ka sandwich),asc_manual,1046.81,249.56,24.05,12.40,11.98,6.40
+ASC043,Chicken sandwich (toasted),asc_manual,705.58,167.37,18.82,12.08,5.32,2.13
+ASC044,Pea keema sandwich (toasted) (Matar aur keema ka sandwich),asc_manual,723.50,171.78,20.26,11.06,5.61,1.94
+ASC045,Classic club sandwich,asc_manual,840.30,200.83,18.49,6.74,11.56,1.86
+ASC046,Sesame toast,asc_manual,2042.69,495.19,11.15,1.90,49.38,1.46
+ASC047,Cracked wheat porridge (Meetha daliya),asc_manual,341.09,81.57,8.87,2.64,4.08,5.12
+ASC048,Semolina porridge (Suji/Rava daliya),asc_manual,423.06,100.89,12.39,3.75,4.08,7.54
+ASC050,Oatmeal Porridge,asc_manual,306.46,72.85,8.77,2.60,3.22,5.20
+ASC051,Cornflakes with milk,asc_manual,493.71,117.33,14.95,3.59,5.12,9.97
+ASC052,Rice flakes (Chiwda/Aval),asc_manual,471.37,112.44,15.57,3.62,3.99,7.28
+ASC053,Wheat flakes,asc_manual,471.37,112.44,15.57,3.62,3.99,7.28
+ASC054,Murmura (Puffed rice),asc_manual,475.04,113.32,15.67,3.62,4.04,7.31
+ASC055,Puffed wheat (Murmure/Moori),asc_manual,475.04,113.32,15.67,3.62,4.04,7.31
+ASC056,Boiled egg (Ubla anda),asc_manual,189.77,45.35,0.12,4.43,3.04,0.00
+ASC057,Fried Egg ,asc_manual,928.19,223.67,0.31,11.59,19.62,0.00
+ASC058,Poached egg,asc_manual,518.05,123.87,0.37,11.98,8.19,0.05
+ASC059,Scrambled egg (Ande ki bhurji),asc_manual,649.51,155.97,1.35,10.29,12.21,1.08
+ASC060,Baked egg ,asc_manual,916.63,218.85,15.42,11.88,12.65,1.66
+ASC061,Plain omelette/omlet,asc_manual,1127.43,272.41,0.64,9.66,25.74,0.51
+ASC062,Stuffed egg omelette/omlet,asc_manual,843.31,203.51,2.30,8.60,17.77,1.57
+ASC063,Pancake,asc_manual,846.21,203.36,20.49,5.68,10.82,3.32
+ASC064,Keema pancake,asc_manual,733.07,176.27,9.56,9.01,11.25,2.20
+ASC065,Vegetable pancake,asc_manual,520.55,125.18,12.24,3.87,6.57,2.09
+ASC066,Jam and fruit pancake,asc_manual,675.43,162.02,20.73,3.79,7.01,7.85
+ASC067,Khoa and coconut pancake,asc_manual,1138.78,271.98,27.32,6.98,15.29,16.47
+ASC068,Brown stock,asc_manual,89.24,21.32,0.25,1.95,1.38,0.14
+ASC069,Vegetable stock,asc_manual,72.84,17.60,0.96,0.30,1.38,0.44
+ASC070,Chicken stock,asc_manual,125.02,29.88,0.37,3.69,1.51,0.20
+ASC079,Clear tomato soup (Tamatar ka soup),asc_manual,330.90,80.07,3.45,4.79,12.22,1.44
+ASC080,Lentil soup,asc_manual,129.85,31.17,3.94,9.65,11.68,1.06
+ASC081,Chicken consomme (Clear chicken soup),asc_manual,199.24,47.94,1.19,11.47,12.02,0.54
+ASC082,Cream of tomato soup,asc_manual,404.60,97.81,3.93,4.61,13.12,1.81
+ASC083,Cream of green peas soup,asc_manual,529.63,127.84,6.75,7.13,14.78,1.61
+ASC084,Cream of spinach soup,asc_manual,416.01,100.54,3.45,5.21,13.31,1.13
+ASC085,Cream of mixed vegetable soup,asc_manual,248.42,59.65,4.93,6.84,9.05,2.10
+ASC086,Cream of mushroom soup,asc_manual,484.63,117.28,3.74,6.64,15.50,1.93
+ASC087,Chicken sweet corn soup,asc_manual,119.03,28.32,1.63,14.48,12.59,0.27
+ASC088,Minestrone soup,asc_manual,178.39,42.66,3.71,9.30,11.09,1.01
+ASC089,Egg drop soup,asc_manual,110.83,26.64,1.10,12.93,13.52,0.60
+ASC090,Chinese cabbage and meat ball soup,asc_manual,1992.37,484.31,1.43,5.21,56.57,0.37
+ASC091,French onion soup,asc_manual,230.90,55.61,4.28,11.41,14.39,1.50
+ASC092,Hot and sour soup,asc_manual,132.17,31.51,1.78,3.12,1.31,0.66
+ASC093,Talaumein soup,asc_manual,149.32,35.63,4.17,10.12,12.78,0.77
+ASC094,Cold cucumber soup (Thanda kheere ka soup),asc_manual,201.43,48.03,4.58,2.99,1.99,3.34
+ASC095,Cold summer garden soup,asc_manual,203.38,49.19,2.65,8.57,14.08,0.46
+ASC096,Chapati/Roti,asc_manual,844.75,202.31,35.65,5.88,3.56,1.00
+ASC097,Plain parantha/paratha,asc_manual,1237.55,298.30,30.69,5.06,16.86,0.86
+ASC098,Potato parantha/paratha (Aloo ka parantha/paratha),asc_manual,851.61,205.04,23.92,3.70,10.22,1.15
+ASC099,Radish parantha/paratha (Mooli ka parantha/paratha),asc_manual,762.00,183.52,20.54,3.30,9.53,1.31
+ASC100,Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha),asc_manual,739.29,178.07,18.84,3.73,9.47,1.15
+ASC101,Dal parantha/paratha,asc_manual,1114.69,268.24,30.03,6.78,13.05,1.43
+ASC102,Sprouted moong parantha/paratha,asc_manual,948.71,228.59,24.31,4.29,12.43,1.47
+ASC103,Pea parantha/paratha (Matar ka parantha/paratha),asc_manual,792.61,190.73,21.51,5.59,8.80,1.29
+ASC104,Keema parantha/paratha,asc_manual,989.27,238.09,18.36,9.41,13.91,0.99
+ASC105,Paneer parantha/paratha,asc_manual,1093.35,262.97,24.33,7.98,14.62,3.77
+ASC106,Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha),asc_manual,901.21,216.49,21.39,5.54,12.09,1.31
+ASC107,Poori,asc_manual,3035.59,737.63,8.22,1.35,77.61,0.23
+ASC108,Spinach poori (Palak poori),asc_manual,2816.04,684.25,7.76,1.42,71.86,0.24
+ASC109,Methi poori,asc_manual,2922.04,710.02,7.98,1.45,74.60,0.26
+ASC110,Dal stuffed poori,asc_manual,3231.84,785.16,10.14,2.08,81.69,0.29
+ASC111,Potato stuffed poori (Aloo ki poori),asc_manual,3196.78,776.74,9.40,1.52,81.35,0.26
+ASC112,Tandoori parantha/paratha,asc_manual,1225.73,295.37,30.74,5.08,16.51,0.86
+ASC113,Boiled rice (Uble chawal),asc_manual,490.33,117.19,25.72,2.60,0.18,0.22
+ASC114,Plain pulao,asc_manual,583.77,140.21,21.82,2.34,4.62,1.15
+ASC115,Mixed vegetable pulao,asc_manual,471.00,113.05,17.49,2.72,3.33,1.35
+ASC116,Mushroom pulao,asc_manual,517.56,124.29,19.02,2.52,4.03,1.00
+ASC117,Sprouted moong pulao,asc_manual,470.44,112.97,17.49,2.19,3.61,1.43
+ASC118,Paneer pulao,asc_manual,2396.20,581.91,8.76,1.98,59.81,1.11
+ASC119,Peanut pulao ,asc_manual,806.21,193.28,21.18,5.32,9.51,1.60
+ASC120,Navratan pulao,asc_manual,1090.19,261.71,36.98,6.20,9.45,2.52
+ASC121,Green chickpeas pulao (Choliya pulao/Hare chane ka pulao),asc_manual,722.95,173.43,27.57,4.88,4.82,2.48
+ASC122,Mutton biryani/biriyani,asc_manual,795.74,190.76,22.50,7.38,7.72,2.39
+ASC123,Vegetable biryani/biriyani,asc_manual,724.76,174.61,18.56,3.16,9.51,2.14
+ASC124,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",asc_manual,734.93,176.30,21.62,4.26,7.88,0.78
+ASC125,Sweet rice (Meethe chawal),asc_manual,906.12,215.41,42.59,2.10,4.57,24.80
+ASC126,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),asc_manual,818.47,195.74,32.93,5.75,4.32,3.91
+ASC127,Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna),asc_manual,1556.82,373.04,65.08,7.45,8.53,11.65
+ASC128,Spanish rice,asc_manual,686.24,164.24,31.10,4.19,2.23,1.26
+ASC129,Chinese fried rice,asc_manual,502.30,120.58,13.40,4.05,5.43,1.47
+ASC133,Macroni cheese pie,asc_manual,717.16,170.63,21.10,5.85,7.48,3.40
+ASC134,Vegetable chowmein,asc_manual,543.32,129.71,15.44,3.07,6.36,1.97
+ASC135,Chicken chowmein,asc_manual,632.98,151.33,13.30,6.33,8.23,1.63
+ASC136,Cheese noodle ring,asc_manual,561.07,133.67,13.96,6.22,6.12,2.84
+ASC137,Spaghetti and cheese balls in tomato sauce,asc_manual,2095.46,508.32,7.82,2.41,52.08,1.83
+ASC138,Penne platter,asc_manual,744.46,177.40,20.87,5.04,8.71,4.50
+ASC139,Pasta hot pot,asc_manual,524.24,125.17,11.60,5.84,6.47,5.99
+ASC140,Chicken lasagne,asc_manual,785.18,187.49,13.90,10.45,10.36,2.74
+ASC141,Fettuccine with spinach sauce,asc_manual,540.00,129.21,12.19,3.10,7.83,1.18
+ASC142,Naan,asc_manual,1197.80,286.45,51.75,8.05,4.99,5.59
+ASC143,Bhatura,asc_manual,3265.00,793.20,10.73,1.63,82.56,0.69
+ASC144,Idli,asc_manual,575.46,137.54,28.18,4.64,0.33,0.28
+ASC146,Masala dosa,asc_manual,683.80,164.58,19.57,3.29,7.84,1.33
+ASC147,Semolina dosa (Suji/Rava dosa),asc_manual,947.56,227.05,32.84,7.30,7.12,4.37
+ASC148,Onion tomato uttapam,asc_manual,1903.54,462.02,11.32,1.91,45.30,0.80
+ASC149,Paneer kaathi roll,asc_manual,1186.30,285.94,20.10,6.92,19.55,3.29
+ASC150,Makki ki roti,asc_manual,1094.52,263.97,24.19,3.49,16.85,0.70
+ASC151,Washed moong dal (Dhuli moong ki dal),asc_manual,208.28,50.00,5.91,2.68,1.68,0.12
+ASC152,Washed urad dal (Dhuli urad ki dal),asc_manual,254.82,61.32,5.84,2.51,2.98,0.32
+ASC153,Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),asc_manual,304.63,73.25,7.10,2.79,3.60,1.05
+ASC154,Dry washed urad,asc_manual,520.00,124.71,15.66,6.85,3.50,0.73
+ASC155,Mixed dal,asc_manual,257.36,61.93,5.79,2.51,3.10,0.34
+ASC156,Whole moong (Moong ki dal),asc_manual,223.16,53.70,5.22,2.25,2.56,0.59
+ASC157,Whole masoor (Masoor ki dal),asc_manual,224.65,54.05,5.37,2.28,2.52,0.67
+ASC158,Whole moth (Moth ki dal),asc_manual,228.59,55.00,5.74,2.01,2.62,0.66
+ASC159,Whole urad (Urad ki dal),asc_manual,223.55,53.80,5.05,2.21,2.62,0.57
+ASC160,Moti mahal dal (Urad rajmah mix dal),asc_manual,428.47,103.13,8.74,3.93,5.66,1.70
+ASC161,Black channa curry/Bengal gram curry (Kale chane ki curry),asc_manual,585.35,140.68,14.11,5.67,6.61,2.36
+ASC162,Chickpeas curry (Safed channa curry),asc_manual,680.17,163.43,19.98,6.10,6.84,4.78
+ASC163,Lobia curry,asc_manual,620.13,148.99,17.88,6.06,5.62,2.51
+ASC164,Soyabean curry,asc_manual,679.92,163.28,6.76,10.43,10.19,2.66
+ASC165,Kidney bean curry (Rajmah curry),asc_manual,598.11,143.73,16.38,5.95,5.77,2.49
+ASC167,Sambar,asc_manual,404.50,96.92,10.57,3.35,4.38,3.31
+ASC168,Besan kadhi with pakodies,asc_manual,1661.22,403.35,3.56,1.64,42.59,0.88
+ASC169,Khatta channa,asc_manual,841.56,202.57,21.14,6.30,10.56,4.75
+ASC170,Sprouted moong dal chat,asc_manual,135.79,32.47,6.01,1.35,0.32,1.57
+ASC171,Potato cauliflower (Aloo gobhi),asc_manual,439.24,106.18,5.99,1.90,8.13,0.44
+ASC172,Potato capsicum (Shimla mirch aloo),asc_manual,519.38,125.53,8.72,1.41,9.33,0.54
+ASC173,Cabbage and peas (Pattagobhi aur matar),asc_manual,265.74,63.88,6.24,3.24,2.64,0.97
+ASC174,Carrot and fenugreek leaves (Gajar methi),asc_manual,257.01,61.92,4.17,2.10,3.81,2.11
+ASC175,Potato fenugreek (Aloo methi),asc_manual,559.22,135.15,8.47,2.25,10.04,0.54
+ASC177,Brinjal bhartha (Baingan ka bhartha),asc_manual,269.75,65.12,4.40,1.38,4.48,1.82
+ASC178,Dry potato (Sookhe aloo),asc_manual,429.12,103.15,14.38,1.62,4.18,0.33
+ASC179,Beans with coconut (Nariyal aur sem/phali; Beans thoran),asc_manual,547.25,131.63,4.39,2.62,11.39,2.06
+ASC180,Cauliflower with coconut (Nariyal ke saath phoolgobhi),asc_manual,549.26,132.11,3.99,2.64,11.56,1.71
+ASC181,Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar),asc_manual,443.45,106.61,4.99,1.82,8.62,2.36
+ASC182,Raw turnip with coconut ,asc_manual,550.60,132.15,5.78,1.80,11.47,4.40
+ASC183,Raw papaya with coconut (Papaya thoran),asc_manual,551.94,132.75,5.58,1.54,11.42,3.82
+ASC184,Stuffed okra (Bharwa bhindi),asc_manual,390.01,94.34,3.85,2.08,7.66,0.48
+ASC185,Stuffed round gourd (Bharwa tinde),asc_manual,301.04,72.80,4.02,1.10,5.75,1.96
+ASC186,Stuffed capsicum (Bharwa shimla mirch),asc_manual,376.99,90.94,8.26,1.34,5.70,1.21
+ASC187,Stuffed brinjal (Bharwa baingan),asc_manual,384.41,93.00,3.96,1.53,7.73,0.92
+ASC189,Stuffed tomatoes (Bharwa tamatar),asc_manual,387.69,93.35,6.19,3.28,6.06,2.68
+ASC190,Pea potato curry (Aloo matar),asc_manual,419.09,100.92,9.74,3.48,5.13,1.86
+ASC191,Pea paneer curry (Matar paneer),asc_manual,560.98,134.83,9.29,6.61,7.75,3.89
+ASC192,Pea mushroom curry (Matar mushroom),asc_manual,387.18,93.30,7.41,3.87,5.16,1.82
+ASC193,Pea curry (Matar ki sabzi),asc_manual,427.75,102.99,9.20,4.51,5.11,1.98
+ASC194,Pea vadi curry,asc_manual,423.44,101.95,8.90,4.64,5.08,1.92
+ASC195,Paneer curry,asc_manual,734.21,176.52,8.40,7.80,12.38,6.29
+ASC196,Lotus stem curry (Kamal kakdi curry),asc_manual,457.31,110.34,9.24,1.53,7.25,2.09
+ASC197,Gravy for kofta,asc_manual,519.40,125.59,6.31,1.75,10.35,3.73
+ASC198,Pea kofta curry (Matar kofta curry),asc_manual,2451.23,595.66,4.17,2.01,63.39,0.88
+ASC199,Spinach kofta curry (Palak kofta curry),asc_manual,2353.02,571.78,3.56,1.09,61.49,0.82
+ASC200,Paneer kofta curry,asc_manual,2761.29,670.91,3.27,2.39,72.06,1.98
+ASC201,Lotus stem kofta curry (Kamal kakdi kofta curry),asc_manual,2607.51,633.56,5.01,0.96,67.76,0.88
+ASC202,Raw banana kofta curry (Kela kofta curry),asc_manual,2580.81,627.27,3.40,0.62,67.98,2.30
+ASC203,Cauliflower kofta curry (Phoolgobhi kofta curry),asc_manual,2637.44,641.10,2.62,1.04,69.62,0.83
+ASC204,Cabbage kofta curry (Pattagobhi kofta curry),asc_manual,2632.23,639.81,2.87,0.98,69.40,0.89
+ASC205,Ghiya/Lauki Kofta Curry,asc_manual,2627.60,638.71,2.71,0.89,69.40,0.82
+ASC206,Spinach paneer kofta curry (Palak paneer kofta curry),asc_manual,2493.70,606.03,2.94,1.43,65.41,1.16
+ASC207,Vegetarian egg kofta curry,asc_manual,2581.90,627.41,4.26,1.33,67.24,1.19
+ASC208,Baked vegetables,asc_manual,371.43,88.99,8.44,3.67,4.44,2.56
+ASC209,Cauliflower musallam (Phoolgobhi musallam),asc_manual,244.37,58.83,4.48,1.89,3.55,1.71
+ASC210,Baked vegetables with spinach ,asc_manual,324.45,77.79,6.93,3.22,4.03,2.09
+ASC211,Baked potato with skin ,asc_manual,563.80,135.77,11.11,3.43,8.50,1.66
+ASC212,Shepherd's pie (vegetarian),asc_manual,564.33,135.63,12.03,5.04,7.30,2.78
+ASC213,Baked brinjal in tomato sauce,asc_manual,161.02,38.63,4.13,1.58,1.62,2.20
+ASC214,Dum aloo,asc_manual,2806.84,682.33,3.33,0.70,74.01,0.71
+ASC215,Spinach paneer (Palak paneer),asc_manual,323.55,77.68,4.43,4.03,4.76,2.55
+ASC216,Methi chaman,asc_manual,1957.78,475.62,2.78,1.54,50.91,1.79
+ASC217,Sarson ka saag,asc_manual,364.17,87.84,5.33,3.00,5.86,0.75
+ASC218,Jackfruit sabzi (Kathal ki sabzi),asc_manual,2572.48,625.40,3.40,0.69,67.60,2.59
+ASC219,Avial,asc_manual,520.92,124.56,8.47,2.46,8.94,3.83
+ASC220,Al yakhani,asc_manual,610.80,147.54,4.65,2.86,13.14,3.56
+ASC221,Shahi paneer,asc_manual,649.74,156.50,6.64,5.06,12.34,5.01
+ASC222,Paneer in butter sauce,asc_manual,607.50,145.61,9.70,6.99,8.81,7.49
+ASC223,Methi malai paneer,asc_manual,810.16,194.98,8.15,7.34,14.76,6.00
+ASC224,Chilli paneer,asc_manual,3199.66,777.51,3.31,2.10,84.01,1.50
+ASC225,Paneer makhana korma,asc_manual,3194.04,775.82,4.63,3.24,82.76,1.84
+ASC226,Kadhai Paneer,asc_manual,449.91,107.99,7.34,4.33,6.81,5.54
+ASC227,Roghan josh,asc_manual,582.69,139.59,4.93,9.56,9.02,2.66
+ASC228,Spinach mutton (Palak mutton),asc_manual,335.43,80.32,3.45,5.74,4.71,1.42
+ASC229,Pea keema curry (Matar keema ki sabzi),asc_manual,553.15,133.00,6.24,8.43,8.14,1.82
+ASC230,Keema kofta curry,asc_manual,643.38,154.45,5.64,9.77,10.39,2.14
+ASC231,Kashmiri mutton koftas (Gushtaba),asc_manual,405.60,97.42,3.04,6.33,6.77,2.13
+ASC232,Mutton yakhni,asc_manual,434.62,104.13,0.84,8.27,7.70,0.13
+ASC233,Chicken yakhni,asc_manual,413.28,99.00,0.78,10.66,6.10,0.12
+ASC234,Mutton do piaza,asc_manual,762.28,183.30,4.14,9.39,14.41,2.90
+ASC236,Mutton chops,asc_manual,2732.12,663.64,1.48,4.03,71.31,0.42
+ASC237,Shammi kebab,asc_manual,2822.97,685.69,3.54,4.52,72.61,0.31
+ASC238,Scotch egg,asc_manual,2786.45,676.89,1.91,4.05,72.62,0.30
+ASC239,Shepherd's pie (with minced meat),asc_manual,593.85,142.78,8.06,7.45,8.88,1.70
+ASC240,Chicken curry,asc_manual,538.96,129.22,3.38,11.79,7.57,1.79
+ASC241,Tandoori chicken,asc_manual,607.17,145.20,2.34,16.26,7.93,1.58
+ASC242,Butter chicken,asc_manual,571.18,137.00,3.74,10.92,8.70,2.37
+ASC243,Chicken kebab,asc_manual,3001.14,729.41,1.11,3.71,78.89,0.24
+ASC244,Chilli chicken,asc_manual,823.97,198.83,2.86,9.57,16.56,0.93
+ASC245,Fried chicken with tomato sauce (Fried chicken tamatar ki chutney kay saath),asc_manual,521.48,125.03,2.51,11.48,7.61,1.16
+ASC246,Fish curry (Machli curry),asc_manual,461.62,111.13,3.77,8.76,6.69,2.02
+ASC247,Fried fish (Indian style) (Tali hui machli),asc_manual,2711.38,658.54,5.40,4.35,68.88,0.40
+ASC248,Fried fish and Chips (English Style) (Tali hui machli aur chips),asc_manual,2682.09,651.75,2.77,3.36,69.69,0.17
+ASC249,Tomato fish,asc_manual,2015.88,489.79,3.18,2.39,51.91,1.35
+ASC250,Baked fish with cheese sauce,asc_manual,475.32,113.96,4.06,8.64,7.02,3.22
+ASC251,Fish tikka,asc_manual,489.08,117.33,3.91,16.00,4.15,1.18
+ASC252,Tandoori fish,asc_manual,400.97,95.98,2.37,11.19,4.64,1.60
+ASC253,"Paneer, apple and pineapple salad",asc_manual,397.42,95.08,8.35,3.88,5.07,6.36
+ASC254,Russian salad,asc_manual,476.71,114.83,6.50,4.26,7.84,1.66
+ASC255,Pasta salad,asc_manual,792.54,190.36,12.70,4.15,13.92,2.60
+ASC256,Deviled egg,asc_manual,409.48,98.56,2.23,4.97,7.72,0.82
+ASC257,Hawain salad,asc_manual,733.88,175.23,14.35,4.27,11.37,5.24
+ASC258,Mixed pulse and vegetable salad,asc_manual,349.23,83.12,13.96,4.74,0.84,1.36
+ASC259,Sprouted moong salad ,asc_manual,158.65,37.81,5.48,2.29,0.74,2.13
+ASC260,Tossed salad,asc_manual,261.03,62.96,4.95,1.02,4.22,1.56
+ASC261,Mixed vegetable salad with curd sauce,asc_manual,252.12,60.28,7.03,4.23,1.50,2.16
+ASC262,Potato salad (Aloo ka salaad),asc_manual,374.93,89.91,11.19,1.40,4.40,3.94
+ASC263,Waldroff salad,asc_manual,588.94,141.75,11.02,1.47,10.05,8.23
+ASC264,Coleslaw,asc_manual,318.36,76.71,5.59,1.24,5.32,3.62
+ASC265,Fruit salad (Phalon ka salaad),asc_manual,328.70,78.14,15.96,0.91,1.22,9.78
+ASC269,Tomato onion raita (Tamatar aur pyaaz ka raita),asc_manual,248.26,59.00,7.08,3.74,1.84,5.98
+ASC270,Peanut raita (Mungfali ka raita),asc_manual,631.24,150.39,9.30,8.59,8.98,7.11
+ASC271,Sprouted moong raita ,asc_manual,256.20,60.89,6.13,4.62,2.19,5.59
+ASC272,Bottle gourd raita (Ghiya/Lauki ka raita),asc_manual,237.21,56.31,5.76,3.98,2.07,5.25
+ASC273,Cucumber raita (Kheere ka raita),asc_manual,249.00,59.13,6.35,4.04,2.08,5.22
+ASC274,Carrot and spinach raita (Gajar aur palak ka raita),asc_manual,239.15,56.83,5.83,4.00,1.99,4.93
+ASC275,Mint raita (Pudinay ka raita),asc_manual,326.97,77.59,7.65,5.64,2.96,7.48
+ASC276,Potato raita (Aloo ka raita),asc_manual,316.95,75.38,10.24,4.22,2.04,5.08
+ASC277,Boondi raita,asc_manual,2831.04,687.72,3.96,2.19,73.83,1.88
+ASC278,Sweet raita (Meetha raita),asc_manual,418.63,99.24,17.93,3.24,1.78,15.36
+ASC279,Dahi vadas/Dahi bhalla,asc_manual,2748.73,667.73,5.49,2.96,70.40,1.78
+ASC280,Gunjia,asc_manual,2747.77,667.34,5.68,2.98,70.28,2.05
+ASC281,Saunth/Sonth chutney with tamarind/imli,asc_manual,592.16,141.53,33.55,1.01,0.15,31.31
+ASC282,Rice kheer (Chawal ki kheer),asc_manual,315.33,75.03,10.05,2.30,2.97,8.02
+ASC283,Makhana kheer,asc_manual,452.85,107.85,12.88,3.31,5.00,11.54
+ASC285,Vermicelli kheer (Semiya/Seviyan ki kheer),asc_manual,504.28,120.07,15.87,3.35,5.00,12.79
+ASC286,Semolina kheer (Suji/Rava kheer),asc_manual,476.14,113.21,15.88,3.43,4.20,12.88
+ASC287,Paneer kheer,asc_manual,441.91,105.31,10.03,4.53,5.37,9.87
+ASC288,Cabbage kheer (Pattagobhi ki kheer),asc_manual,350.89,83.51,9.73,2.87,3.80,9.28
+ASC289,Carrot kheer (Gajar ki kheer),asc_manual,358.60,85.35,10.09,2.81,3.85,9.63
+ASC290,Cauliflower kheer (Phoolgobhi ki kheer),asc_manual,344.14,81.95,8.78,3.04,3.95,8.49
+ASC291,Moong dal kheer,asc_manual,324.23,77.16,9.89,2.95,2.97,7.92
+ASC292,Phirni,asc_manual,487.80,116.12,16.11,3.49,4.34,10.79
+ASC293,Semolina halwa (Suji ka halwa),asc_manual,940.23,225.65,24.67,2.16,13.38,13.98
+ASC294,Shahi suji halwa,asc_manual,1595.02,382.34,44.44,3.48,21.73,27.21
+ASC295,Carrot halwa (Gajar ka halwa),asc_manual,722.36,172.64,18.53,3.11,9.73,16.85
+ASC296,Egg halwa (Ande ka halwa),asc_manual,1262.47,299.74,39.59,7.85,13.41,37.85
+ASC297,Potato halwa (Aloo ka halwa),asc_manual,637.97,151.66,29.18,1.53,3.48,17.42
+ASC298,Pumpkin halwa (Kaddu ka halwa),asc_manual,800.80,190.27,27.60,1.33,8.81,26.64
+ASC299,Moong dal halwa,asc_manual,1461.34,349.80,40.23,8.35,17.68,25.59
+ASC300,Caramel custard (steamed),asc_manual,512.20,121.58,15.02,4.97,4.87,14.98
+ASC301,Baked custard,asc_manual,447.46,106.53,9.45,5.41,5.30,9.42
+ASC302,Soft Custard (stirred),asc_manual,459.08,109.18,11.19,5.01,5.07,11.15
+ASC304,Chocolate ice cream,asc_manual,743.06,177.70,15.41,4.47,11.25,15.33
+ASC305,Mango ice cream,asc_manual,525.33,125.69,11.14,3.40,7.62,11.01
+ASC307,Fruit Ice cream (Phalon ka Ice cream),asc_manual,717.81,171.46,16.05,4.37,10.38,14.03
+ASC308,Caramel ice cream,asc_manual,725.49,173.52,14.81,4.31,11.15,14.52
+ASC309,Lemon souffle,asc_manual,705.67,168.51,13.43,6.95,10.02,11.67
+ASC310,Orange souffle,asc_manual,704.69,168.28,14.20,6.80,9.73,12.31
+ASC311,Vanilla souffle,asc_manual,786.62,187.85,14.78,7.71,11.19,12.86
+ASC312,Chocolate souffle,asc_manual,792.69,189.32,14.74,7.88,11.36,12.69
+ASC313,Pineapple souffle ,asc_manual,821.36,196.14,15.52,8.06,11.72,13.45
+ASC314,Apple mousse,asc_manual,447.82,106.92,12.77,4.21,4.27,10.56
+ASC315,Rich chocolate mousse,asc_manual,785.94,188.26,10.84,7.96,12.19,10.30
+ASC316,Mango mousse,asc_manual,520.63,124.98,9.14,3.21,8.47,8.89
+ASC317,Orange and pineapple cream,asc_manual,422.92,101.18,11.96,1.44,5.43,11.37
+ASC318,Charlotte rousse,asc_manual,790.33,188.29,34.08,3.95,4.78,20.48
+ASC319,Triffle pudding,asc_manual,493.52,116.97,18.24,2.93,3.93,13.89
+ASC320,Snow flakes pudding,asc_manual,399.56,95.21,8.07,4.67,4.97,8.01
+ASC321,Kulfi,asc_manual,413.82,98.43,11.30,3.21,4.70,10.39
+ASC322,Steamed orange pudding,asc_manual,1163.99,278.03,41.53,2.34,12.04,26.53
+ASC323,Meringue and rice pudding,asc_manual,474.30,112.93,14.60,4.84,4.05,10.87
+ASC324,Cheese pudding,asc_manual,1190.38,285.01,19.27,11.29,18.37,18.63
+ASC325,Chocolate pudding,asc_manual,891.10,211.96,29.59,3.55,9.48,20.68
+ASC326,Bread and butter pudding ,asc_manual,705.95,167.94,19.63,5.59,7.88,11.84
+ASC327,Queen of pudding,asc_manual,558.58,132.92,16.35,5.51,5.38,11.77
+ASC328,Pineapple upside down pudding,asc_manual,1079.36,257.73,35.73,3.15,11.91,22.16
+ASC329,Date and nut pie,asc_manual,1348.65,322.42,46.86,3.93,13.31,31.18
+ASC330,Stewed apple with custard,asc_manual,392.17,92.87,18.36,1.27,1.82,15.46
+ASC331,Apple snowballs,asc_manual,428.91,101.51,24.58,0.86,0.31,19.40
+ASC332,Hot orange souffle,asc_manual,754.48,179.97,18.77,6.87,8.95,14.93
+ASC333,Hot chocolate souffle,asc_manual,948.77,226.09,26.21,6.70,11.10,22.88
+ASC334,Hot vanilla souffle,asc_manual,809.97,192.93,21.77,6.87,9.07,18.17
+ASC335,Plain burfi (Burfi),asc_manual,1705.52,408.32,30.88,9.82,27.96,30.43
+ASC336,Coconut burfi (Nariyal ki burfi),asc_manual,1956.59,467.64,32.15,8.81,34.63,31.50
+ASC337,Bottle gourd burfi (Ghiya/Lauki burfi),asc_manual,1153.35,275.96,24.51,5.86,17.68,23.92
+ASC338,Chocolate burfi,asc_manual,1425.19,339.33,33.15,13.00,17.86,32.38
+ASC339,Cashewnut burfi (Kaju burfi/Kaju katli),asc_manual,1763.94,421.74,37.92,5.48,28.46,31.43
+ASC340,Gram flour burfi (Besan burfi),asc_manual,1768.65,421.79,46.59,11.19,22.41,28.44
+ASC341,Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo ),asc_manual,1796.19,428.71,52.86,6.71,21.86,33.28
+ASC342,Semolina ladoo with coconut (Suji/Rava aur nariyal ke ladoo ),asc_manual,1942.70,464.43,50.90,5.68,27.03,27.32
+ASC343,Gram flour ladoo (Besan ladoo),asc_manual,2001.49,476.91,62.61,8.93,22.76,37.76
+ASC344,Sesame ladoo (Til ke ladoo),asc_manual,1660.91,396.96,43.50,10.70,19.64,38.63
+ASC345,Chenna murki,asc_manual,1066.03,252.69,36.01,10.46,8.20,35.55
+ASC346,Milk cake,asc_manual,531.52,127.41,9.13,3.01,8.93,8.90
+ASC347,Ghujia/Lavang latika,asc_manual,3168.67,768.98,13.00,1.86,78.93,6.08
+ASC348,Gulab Jamun with khoya,asc_manual,2425.40,586.06,26.09,2.03,53.23,24.12
+ASC349,Mal pua,asc_manual,2339.17,566.68,17.56,1.71,54.64,11.77
+ASC350,Shahi tukre,asc_manual,806.27,189.81,41.46,2.76,2.54,34.70
+ASC351,Potato pakora/pakoda (Aloo pakoda),asc_manual,2788.18,677.19,6.04,1.90,71.84,0.22
+ASC352,Onion pakora/pakoda (Pyaaz ke pakode),asc_manual,2777.39,674.61,5.41,1.90,71.84,0.88
+ASC353,Cauliflower pakora/pakoda (Phoolgobhi ke pakode),asc_manual,2764.93,671.63,4.52,1.98,71.86,0.23
+ASC354,Mixed vegetable pakora/pakoda,asc_manual,2774.04,673.81,5.12,1.94,71.86,0.38
+ASC355,Spinach pakora/pakoda (Palak pakoda),asc_manual,2933.57,712.62,4.68,1.96,76.38,0.20
+ASC356,Methi pakora/pakoda (Methi ke pakode),asc_manual,2936.21,713.25,4.68,2.06,76.39,0.25
+ASC357,Egg pakora/pakoda (Ande ke pakode),asc_manual,2925.47,710.51,4.48,2.83,75.86,0.19
+ASC358,Bread pakora/pakoda,asc_manual,2929.73,710.99,8.87,2.57,74.20,0.46
+ASC359,Paneer pakora/pakoda,asc_manual,2957.51,718.12,5.52,3.27,76.05,1.08
+ASC360,Potato bonda (Aloo bonda),asc_manual,2604.02,632.84,4.53,1.09,67.80,0.27
+ASC361,Potato samosa (Aloo ka samosa),asc_manual,2377.14,577.39,9.21,1.71,59.19,0.29
+ASC362,Minced meat samosa (Keema ka samosa),asc_manual,2557.26,620.99,6.14,4.43,64.26,0.50
+ASC363,Paneer and pea samosa (Paneer matar ka samosa),asc_manual,2569.60,623.81,8.55,4.02,63.65,1.69
+ASC364,Mathri,asc_manual,3314.32,805.12,12.32,1.75,83.10,0.29
+ASC365,Khasta kachori,asc_manual,2934.90,712.73,12.81,2.51,72.27,0.34
+ASC366,Vegetable cutlet,asc_manual,2738.50,665.45,4.68,1.25,71.33,0.35
+ASC367,Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet),asc_manual,2888.94,701.71,7.39,1.76,73.89,0.27
+ASC368,Peanut cutlet (Mungfali ke cutlet),asc_manual,2878.02,698.77,5.68,2.63,74.00,0.51
+ASC369,Fish cutlet (Machli ka cutlet),asc_manual,2693.96,654.64,3.13,2.77,70.11,0.29
+ASC370,Paneer potato cutlet (Paneer aloo cutlet),asc_manual,2770.57,672.94,5.23,2.47,71.40,1.02
+ASC371,Spinach chickpeas cutlet (Palak channa dal cutlet),asc_manual,2831.18,688.03,4.93,1.44,73.60,0.16
+ASC372,Cheese toast,asc_manual,3233.23,785.37,5.49,1.98,84.11,0.53
+ASC375,Vegetable burger,asc_manual,2144.45,519.93,13.69,3.26,50.63,1.88
+ASC376,Cheese pizza,asc_manual,1047.50,249.50,30.62,5.79,12.43,3.42
+ASC377,Vegetable seekh kebab,asc_manual,2843.04,690.73,5.32,1.57,73.72,0.74
+ASC378,Masala vada,asc_manual,3397.89,826.02,4.06,1.69,89.15,0.24
+ASC379,Peanut sago vada (Sabudana mungfali vada),asc_manual,3087.61,749.89,7.14,1.01,79.82,0.19
+ASC380,Vegeterian scotch egg,asc_manual,2805.97,681.67,4.64,2.16,72.77,0.23
+ASC381,Paneer shaslik/tikka,asc_manual,392.27,93.85,7.98,5.11,4.49,4.61
+ASC382,Peanut brittle (Moongfali ki chikki),asc_manual,1340.21,320.46,47.46,6.94,11.13,43.92
+ASC383,Spring roll,asc_manual,2568.38,623.87,8.56,1.81,64.63,0.60
+ASC384,Dry mango chutney (Sookhe aam ki chutney),asc_manual,1247.30,298.13,69.17,2.43,0.70,61.86
+ASC385,Peanut chutney (Mungfali ki chutney),asc_manual,1081.16,258.37,9.87,11.80,19.06,2.76
+ASC386,Coconut chutney (Nariyal ki chutney),asc_manual,1110.19,265.92,8.29,3.59,25.00,3.79
+ASC387,Mint and coriander chutney (Pudinay aur dhaniye ki chutney),asc_manual,430.47,102.60,21.18,2.81,0.51,15.88
+ASC395,Custard tart,asc_manual,940.77,225.60,28.66,3.72,10.73,9.31
+ASC396,Lemon tart,asc_manual,1262.30,303.35,30.68,6.12,17.45,10.68
+ASC397,Jam tart,asc_manual,1498.57,360.72,46.18,4.42,17.35,14.74
+ASC398,Orange cream tart,asc_manual,822.52,197.16,27.43,2.58,8.72,10.08
+ASC399,Pineapple tart,asc_manual,817.46,195.40,28.62,2.29,8.21,11.09
+ASC400,Cheese and mushroom tart,asc_manual,1022.00,246.10,21.43,5.51,15.28,3.16
+ASC401,Cottage cheese pie,asc_manual,992.89,238.98,20.66,7.45,13.83,3.62
+ASC402,Minced meat pie,asc_manual,919.66,221.55,18.11,7.38,13.04,1.42
+ASC403,Apple cinnamon pie,asc_manual,1077.36,258.73,33.68,3.35,12.21,11.95
+ASC404,Lemon meringue pie,asc_manual,941.79,224.43,35.11,3.88,8.16,21.17
+ASC405,Chocolate meringue pie,asc_manual,899.79,214.76,28.80,4.98,9.17,15.03
+ASC407,Cream puffs,asc_manual,919.45,221.33,16.00,4.70,15.48,5.94
+ASC408,Chocolate eclairs,asc_manual,1000.02,239.42,26.22,4.24,13.50,17.34
+ASC409,Cheese balls,asc_manual,2803.78,681.28,4.81,2.21,72.57,0.63
+ASC411,Mince
